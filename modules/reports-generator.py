@@ -1,1 +1,0 @@
-print("Reports generator script running succeccfully")
