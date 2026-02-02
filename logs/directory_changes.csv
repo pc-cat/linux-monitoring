@@ -1,0 +1,4 @@
+Event_Timestamp,Event_Type,Filename,File_Type,Size_Bytes,Owner_Group,Permissions,Access_Time,Mod_Time,Create_Time,Change_Details
+2026-02-01 19:39:52,CREATED,submission_test.txt,Regular File,0,anisul:anisul,-rw-rw-r--,2026-02-01 19:39:48,2026-02-01 19:39:48,2026-02-01 19:39:48,New File Added
+2026-02-01 19:40:24,MODIFIED,submission_test.txt,Regular File,29,anisul:anisul,-rw-rw-r--,2026-02-01 19:39:48,2026-02-01 19:40:19,2026-02-01 19:40:19,Size: 0 -> 29 | Content Modified
+2026-02-01 19:40:54,DELETED,submission_test.txt,N/A,0,N/A,N/A,N/A,N/A,N/A,File Removed
